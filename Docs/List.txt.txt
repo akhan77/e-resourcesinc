@@ -1,2 +1,4 @@
 1. Devops.ppt
 2. Toolslist.txt
+3. installenv.sh
+4. initscriptforjenkins.sh
