@@ -1,0 +1,5 @@
+1. Opened my Repository  - https://github.com/akhan77/e-resourcesinc
+2. Selected the respository, clicked on the "Fork", it printed message, "fork your respositor", The gave the option to "Clone", Copied files as e-resourcesinc-master in the same Folder
+3. I edited the list.txt file and added the text - "Exercise ......", also added a new file to the forked-cloned repository
+4. Now trying to do push to forked repo
+d. merge the fork change to main repo :

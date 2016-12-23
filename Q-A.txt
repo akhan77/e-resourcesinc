@@ -1,0 +1,10 @@
+
+12/22/2016
+
+1. What is the day to day activities of Devops Engineer / Support
+
+a. Align with the release calendar to prepare / monitor for the Dev test / QA / Prod by reviewing the run book
+b. Monitoring build / deployment logs for any errors
+c. Integration activities for new projects " Github repo creation, profile creation in Artifact repo,environment preparation pipeline for build and deployment , access provisioning"
+d. Troubleshooting issues reported by developers
+e. Regular tool administration  activities - patch management , License management , backup 
